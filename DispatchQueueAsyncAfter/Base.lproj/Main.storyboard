@@ -33,9 +33,6 @@
                         </constraints>
                     </view>
                     <navigationItem key="navigationItem" id="vjf-lz-B78"/>
-                    <connections>
-                        <segue destination="YLg-ZE-UaB" kind="show" id="t0g-Tz-xJf"/>
-                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
             </objects>
